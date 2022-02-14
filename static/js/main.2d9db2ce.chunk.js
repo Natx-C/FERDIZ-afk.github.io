@@ -8,14 +8,14 @@
                 github: {
                     username: "FERDIZ-afk",
                     sortBy: "updated",
-                    limit: 18,
+                    limit: 25,
                     exclude: {
                         forks: !0,
                         projects: ["FERDIZ-afk", "dekompel"]
                     }
                 },
                 social: {
-                    linkedin: "",
+                    linkedin: "https://trakteer.id/FERDIZ-AFK/",
                     twitter: "",
                     facebook: "",
                     dribbble: "",
@@ -52,8 +52,8 @@
                 },
                 themeConfig: {
                     default: "light",
-                    disableSwitch: !0,
-                    respectPrefersColorScheme: !0,
+                    disableSwitch: false,
+                    respectPrefersColorScheme: true,
                    themes: ["light"]
                   // themes: ["light", "dark", "cupcake", "bumblebee", "emerald", "corporate", "synthwave", "retro", "cyberpunk", "valentine", "halloween", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula"]
                 }
