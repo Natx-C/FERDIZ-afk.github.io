@@ -51,11 +51,11 @@
                     snippetVersion: 6
                 },
                 themeConfig: {
-                    default: "dark",
+                    default: "light",
                     disableSwitch: false,
                     respectPrefersColorScheme: false,
-                    //themes: ["light", "dark"]
-                   themes: ["light", "dark", "cupcake", "bumblebee", "emerald", "corporate", "synthwave", "retro", "cyberpunk", "valentine", "halloween", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula"]
+                   themes: ["light", "dark"]
+                  // themes: ["light", "dark", "cupcake", "bumblebee", "emerald", "corporate", "synthwave", "retro", "cyberpunk", "valentine", "halloween", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula"]
                 }
             }
         },
