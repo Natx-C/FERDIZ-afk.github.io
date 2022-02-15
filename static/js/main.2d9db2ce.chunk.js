@@ -17,7 +17,7 @@
                 social: {
                     linkedin: "https://trakteer.id/FERDIZ-AFK/",
                     twitter: "",
-                    facebook: "",
+                    instagram: "ferdiz_afk",
                     dribbble: "",
                     behance: "",
                     medium: "https://wa.me/6282363250061",
@@ -449,7 +449,7 @@
                                                 })
                                             })]
                                         })
-                                    }), "undefined" !== typeof u.a.social.facebook && u.a.social.facebook && Object(b.jsx)("li", {
+                                    }), "undefined" !== typeof u.a.social.instagram && u.a.social.instagram && Object(b.jsx)("li", {
                                         children: Object(b.jsxs)("span", {
                                             children: [Object(b.jsx)("div", {
                                                 children: Object(b.jsx)(J.d, {
@@ -457,11 +457,12 @@
                                                 })
                                             }), Object(b.jsx)("div", {
                                                 children: Object(b.jsx)("a", {
-                                                    href: "https://www.facebook.com/".concat(u.a.social.facebook),
+                                                    href: "https://www.instagram.com/".concat(u.a.social.instagram),
                                                     target: "_blank",
                                                     rel: "noreferrer",
                                                     className: "text-base-content-important",
-                                                    children: u.a.social.facebook
+                                                    children: u.a.social.instagram
+                                                    //dari facebook ganti ke ig kalau mau ganti ke ganti aja ini tes
                                                 })
                                             })]
                                         })
