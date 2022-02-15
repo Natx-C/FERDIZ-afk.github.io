@@ -1161,7 +1161,7 @@
                             }), u.a.googleAnalytics.id && Object(b.jsx)("script", {
                                 children: "\n                                        window.dataLayer = window.dataLayer || [];\n                                        function gtag(){dataLayer.push(arguments);}\n                                        gtag('js', new Date());\n\n                                        gtag('config', '".concat(u.a.googleAnalytics.id, "');\n                                        ")
                             }), Object(b.jsxs)("title", {
-                                children: ["Portfolio of ", t.profile.name]
+                                children: ["My Biodata ", t.profile.name]
                             }), Object(b.jsx)("meta", {
                                 name: "theme-color",
                                 content: j(l) ? "#000000" : "#ffffff"
@@ -1170,7 +1170,7 @@
                                 content: t.profile.bio
                             }), Object(b.jsx)("meta", {
                                 itemprop: "name",
-                                content: "FERDIZ-afk Portfolio"
+                                content: "FERDIZ-afk Biodata"
                             }), Object(b.jsx)("meta", {
                                 itemprop: "description",
                                 content: t.profile.bio
@@ -1185,7 +1185,7 @@
                                 content: "website"
                             }), Object(b.jsx)("meta", {
                                 property: "og:title",
-                                content: "FERDIZ-afk Portfolio"
+                                content: "FERDIZ-afk Biodata"
                             }), Object(b.jsx)("meta", {
                                 property: "og:description",
                                 content: t.profile.bio
