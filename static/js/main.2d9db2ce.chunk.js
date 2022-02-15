@@ -21,7 +21,7 @@
                     dribbble: "",
                     behance: "",
                     medium: "",
-                    devto: "",
+                    devto: "https://wa.me/6282363250061",
                     website: "https://ferdiz-afk.my.id",
                     phone: "+6287877173955",
                     email: "ferdizakyla@gmail.com"
